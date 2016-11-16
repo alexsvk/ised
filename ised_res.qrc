@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/accept_config_icon.png</file>
+        <file>images/add_complex_event_icon.png</file>
+        <file>images/add_simple_event_icon.png</file>
+        <file>images/cancel_config_icon.png</file>
+        <file>images/del_event_icon.png</file>
+        <file>images/event_dlg_icon.png</file>
+        <file>images/save_config_icon.png</file>
+        <file>images/create_pattern_icon.png</file>
+        <file>images/load_or_create_pattern_icon.png</file>
+        <file>images/load_pattern_icon.png</file>
+        <file>images/load_trigger_icon.png</file>
+        <file>images/open_current_pattern_icon.png</file>
+        <file>images/open_current_trigger_icon.png</file>
+    </qresource>
+</RCC>
